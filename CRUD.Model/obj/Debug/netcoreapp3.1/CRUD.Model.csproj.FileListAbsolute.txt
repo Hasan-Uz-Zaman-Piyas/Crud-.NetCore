@@ -1,0 +1,10 @@
+D:\.Net Core\New folder\CRUD\CRUD.Model\bin\Debug\netcoreapp3.1\CRUD.Model.deps.json
+D:\.Net Core\New folder\CRUD\CRUD.Model\bin\Debug\netcoreapp3.1\CRUD.Model.dll
+D:\.Net Core\New folder\CRUD\CRUD.Model\bin\Debug\netcoreapp3.1\CRUD.Model.pdb
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.csproj.AssemblyReference.cache
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.AssemblyInfoInputs.cache
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.AssemblyInfo.cs
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.csproj.CoreCompileInputs.cache
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.dll
+D:\.Net Core\New folder\CRUD\CRUD.Model\obj\Debug\netcoreapp3.1\CRUD.Model.pdb
